@@ -1,0 +1,28 @@
+N1 – Project Setup and Package Management
+
+Flores, Jenny S.
+IV-BSIT C
+
+1. What is the purpose of the name field?
+The name field is used to identify the name of my project. It helps me know which project I am working on.
+
+2. What is the purpose of the version field?
+The version field tells the current version of my project. It helps me keep track of updates.
+
+3. What is the purpose of the description field?
+The description field gives a short explanation about my project and what it does.
+
+4. What is the purpose of the main field?
+The main field tells which file is the main starting point of my project. In my activity, it is index.js.
+
+5. What is the purpose of the scripts field?
+The scripts field contains commands that I can run using npm. For example, I use npm start to run my program.
+
+6. What is the purpose of the dependencies field?
+The dependencies field contains the packages that my project needs to work properly.
+
+7. What is the purpose of the devDependencies field?
+The devDependencies field contains packages that help me while developing and testing my project.
+
+8. What is the node_modules folder, and why is it not included when submitting or sharing a project?
+The node_modules folder contains the packages that I installed in my project. It is not included when sharing my project because the packages can be installed again using npm install. This also helps make the project folder smaller.
