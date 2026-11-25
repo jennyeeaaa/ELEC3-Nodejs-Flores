@@ -12,8 +12,11 @@ A simple command-line File Manager built using Node.js built-in modules fs and p
 - Handle missing files without crashing
 
 ## Files
-- index.js – Contains the file manager program.
-- files/ – Stores the text files created by the program.
+- `index.js` – Contains the file manager program.
+- `files/` – Stores the text files created by the program.
+- `notes.txt`
+- `message.txt`
+- `diary.txt`
 
 ## How to Run
 
