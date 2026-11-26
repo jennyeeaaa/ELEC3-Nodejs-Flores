@@ -36,3 +36,10 @@ Both middleware functions call next() to continue processing the request.
 
 ## Testing
 All API endpoints were tested using Thunder Client. Screenshots of the responses and terminal logger are included in the screenshots folder.
+
+## Expected Results
+- GET requests return student records.
+- POST requests add a new student.
+- PUT requests update an existing student.
+- DELETE requests remove a student.
+- The logger middleware displays each request in the terminal.
